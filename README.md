@@ -4,5 +4,5 @@
 ### = is not a letter.
 ### Etc. [Depending on what the user enters]
 
-## check Program.cs for the code to the question below 👆🏾
+## check Program.cs for the code to the question above👆🏾
 ## well commented for easy understanding😉.
